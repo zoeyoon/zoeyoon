@@ -31,4 +31,4 @@
 <br>          
 <h3> 🏆Achievements🏆 </h3>
 <p> 2021.12 BizFlow X HGU AppDev Contest 장려상 </p>
-<p> 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상</p>
+<p> 2021.12 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상</p>
