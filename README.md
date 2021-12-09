@@ -27,8 +27,8 @@
 <h3> 👩🏻‍💻Projects👩🏻‍💻 </h3>
 <p> 2021.07 ~ 2021.11 IT가이드 - 어른들을 IT 세계로 (조마루 감자탕) </p>
 <p> 2021.09 ~ 2021.11 한동대 인근 병원 추천 시스템 (조마루 감자탕) </p>
-<p> 2021.09 ~ 2022.01 Hisnet 공지 알림이(세미콜론) </p>
+<p> 2021.09 ~ 2022.01 Hisnet 공지 알림이 (세미콜론) </p>
 <br>          
-<h3> 🏆achievements🏆 </h3>
-<p> 2021.12 BizFlow * HGU AppDev Contest 장려상 </p>
+<h3> 🏆Achievements🏆 </h3>
+<p> 2021.12 BizFlow X HGU AppDev Contest 장려상 </p>
 <p> 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상</p>
