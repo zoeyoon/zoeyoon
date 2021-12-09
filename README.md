@@ -16,8 +16,8 @@
           <img alt="CSS" src ="https://img.shields.io/badge/CSS-0c73b8.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
           <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-e7a328.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
           <img alt="Spring" src ="https://img.shields.io/badge/Spring-6db23e.svg?&style=flat-square&logo=Spring&logoColor=white"/>
-          <img alt="SQLite" src ="https://img.shields.io/badge/SpringBoot-003c58.svg?&style=flat-square&logo=SQLite&logoColor=white"/>
-          <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-004566.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+          <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003c58.svg?&style=flat-square&logo=SQLite&logoColor=white"/>
+          <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-e06f13.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
           <img alt="Tomcat" src ="https://img.shields.io/badge/Tomcat-00599d.svg?&style=flat-square&logo=Apache Tomcat&logoColor=white"/>
           
 </p>
