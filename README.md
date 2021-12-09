@@ -7,5 +7,5 @@
 <p> Techs that I've used at least once! </p>
 
 <p>
-          ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Java-ba463c?style=flat-square&logo=Java&logoColor=white)
+          ![]<https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white> ![]<https://img.shields.io/badge/Java-ba463c?style=flat-square&logo=Java&logoColor=white>
 </p>
