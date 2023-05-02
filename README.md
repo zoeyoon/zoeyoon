@@ -6,7 +6,9 @@
 
 <p> Techs that I've used at least once! </p>
 
-<p>
+<p align="center">
+          <img alt="Git" src ="https://img.shields.io/badge/Git-EB5500.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+          <img alt="Github" src ="https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
           <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
           <img alt="C" src ="https://img.shields.io/badge/C-8A1800.svg?&style=for-the-badge&logo=C&logoColor=white"/>
           <img alt="Java" src ="https://img.shields.io/badge/Java-fa981b.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -19,12 +21,18 @@
           <img alt="Spring" src ="https://img.shields.io/badge/Spring-6db23e.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
           <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003c58.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
           <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-e06f13.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+          <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FEC800.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
           <img alt="Tomcat" src ="https://img.shields.io/badge/Tomcat-00599d.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
           <img alt="Linux" src ="https://img.shields.io/badge/Linux-e7a328.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
-          
+          <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-670091.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+          <img alt="Docker" src ="https://img.shields.io/badge/Docker-0C9BF7.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
           
 </p>
 
+<br>
+<h3> 👥Organizations👥</h3>
+<p> 2021.09 ~ 2022.01 슬기짜기(SLE)</p>
+<p> 2023.03 ~ present 멋쟁이 사자처럼(Front-end)🦁</p>
 <br>
 <h3> 👩🏻‍💻Projects👩🏻‍💻 </h3>
 <p> 2021.07 ~ 2021.11 IT가이드 - 어른들을 IT 세계로 (조마루 감자탕) </p>
