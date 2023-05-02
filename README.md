@@ -7,19 +7,21 @@
 <p> Techs that I've used at least once! </p>
 
 <p>
-          <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
-          <img alt="C" src ="https://img.shields.io/badge/C-659AD3.svg?&style=flat-square&logo=C&logoColor=white"/>
-          <img alt="Java" src ="https://img.shields.io/badge/Java-fa981b.svg?&style=flat-square&logo=Java&logoColor=white"/>
-          <img alt="C++" src ="https://img.shields.io/badge/C++-00599d.svg?&style=flat-square&logo=C%2B%2B&logoColor=white"/>
-          <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-00c7fa.svg?&style=flat-square&logo=Flutter&logoColor=white"/>
-          <img alt="HTML" src ="https://img.shields.io/badge/HTML-e54d26.svg?&style=flat-square&logo=HTML5&logoColor=white"/>
-          <img alt="CSS" src ="https://img.shields.io/badge/CSS-0c73b8.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
-          <img alt="BootStrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white"/>
-          <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-e7a328.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
-          <img alt="Spring" src ="https://img.shields.io/badge/Spring-6db23e.svg?&style=flat-square&logo=Spring&logoColor=white"/>
-          <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003c58.svg?&style=flat-square&logo=SQLite&logoColor=white"/>
-          <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-e06f13.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
-          <img alt="Tomcat" src ="https://img.shields.io/badge/Tomcat-00599d.svg?&style=flat-square&logo=Apache Tomcat&logoColor=white"/>
+          <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+          <img alt="C" src ="https://img.shields.io/badge/C-8A1800.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+          <img alt="Java" src ="https://img.shields.io/badge/Java-fa981b.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+          <img alt="C++" src ="https://img.shields.io/badge/C++-00599d.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+          <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-00c7fa.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+          <img alt="HTML" src ="https://img.shields.io/badge/HTML-e54d26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+          <img alt="CSS" src ="https://img.shields.io/badge/CSS-0c73b8.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+          <img alt="BootStrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+          <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-e7a328.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+          <img alt="Spring" src ="https://img.shields.io/badge/Spring-6db23e.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+          <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003c58.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/>
+          <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-e06f13.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+          <img alt="Tomcat" src ="https://img.shields.io/badge/Tomcat-00599d.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
+          <img alt="Linux" src ="https://img.shields.io/badge/Linux-e7a328.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+          
           
 </p>
 
