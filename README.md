@@ -33,8 +33,8 @@
 
 
 ### 📁 Project
-**2023.09 ~ 2023.12** [spacepic; 네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
-**2023.07 ~ 2023.08** [멋쟁이사자처럼 중앙해커톤 Pricy](https://github.com/LikeLionHGU/pricy-web) <br>
+**2023.09 ~ 2023.12** [spacepic-네컷사진 아카이빙 서비스](http://space-pic.s3-website.ap-northeast-2.amazonaws.com/) <br/>
+**2023.07 ~ 2023.08** 멋쟁이사자처럼 중앙해커톤 Pricy <br>
 **2021.09 ~ 2022.01** [Hisnet 공지 알림이-아맞다](https://github.com/zoeyoon/Semicolon) <br>
 **2021.06 ~ 2022.11** [IT 가이드](https://github.com/healim01/it_guide) <br>
 
