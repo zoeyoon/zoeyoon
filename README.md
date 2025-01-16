@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ## Hi There 👻
+> welcome to zoey's github !
 
 ### 🛠 Tech Stacks (used at least once .. 😏)
 #### Language
@@ -25,6 +26,8 @@
 #### Others
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-f8f6f6?style=for-the-badge&logo=notion&logoColor=black" />
 </p>
 
 ### 👥 Organizations
@@ -38,7 +41,7 @@
 **2021.09 ~ 2022.01** [Hisnet 공지 알림이-아맞다](https://github.com/zoeyoon/Semicolon) <br>
 **2021.06 ~ 2022.11** [IT 가이드](https://github.com/healim01/it_guide) <br>
 
-### 🌞 For More Info
+### 🌞 Need More Info?
 <a href="mailto:yoonsym27@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://zoeyoon27.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
